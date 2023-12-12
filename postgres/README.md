@@ -28,6 +28,6 @@ Then connect to database with
 3) Install third party database viewer, e.g. DBeaver
 
 ## Test data
-Check [full-text-search](https://github.com/gfx687/notes) folder for database schema and script to fill it with data
+Check [full-text-search](https://github.com/gfx687/notes/tree/main/postgres/full-text-search) folder for database schema and script to fill it with data
 
 
