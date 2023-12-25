@@ -19,9 +19,9 @@ Connection string:
 
 2) Install `psql` on the local machine, packages exist that will not pull entire postgresql with it.
 
-Debian example: `apt install postgresql-client`
+    Debian example: `apt install postgresql-client`
 
-Then connect to database with `psql $CONNECTION_STRING`
+    Then connect to database with `psql $CONNECTION_STRING`
 
 3) Install third party database viewer, e.g. DBeaver
 
