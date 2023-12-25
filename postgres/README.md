@@ -5,7 +5,7 @@ Start PostgreSQL database in docker container:
 
 Connect to container's shell:
 
-`dk exec -it --user postgres postgres bash`
+`docker exec -it --user postgres postgres bash`
 
 Connection string:
 
