@@ -14,11 +14,11 @@ Connection string:
 ## Work with database:
 1) Via container's own `psql`
 
-`dk exec -it --user postgres postgres psql`
+  `dk exec -it --user postgres postgres psql`
 
 2) Install `psql` on the local machine, packages exist that will not pull entire postgresql with it.
 
-Debian example:
+Debian example:\
 `apt install postgresql-client`
 
 Then connect to database with
